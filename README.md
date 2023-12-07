@@ -1,7 +1,7 @@
 QUẢN LÝ NHÀ TRỌ
 
 Contributors:
-Leader: Võ Tấn Tiến - 20522013 - VoTanTien
+Leader: Võ Tấn Tiến - 20522013 - [VoTanTien](https://github.com/VoTanTien/SE357-Pratice-class)
 Member: Nguyễn Châu Thắng - 22521897
 Supervisors:
 
